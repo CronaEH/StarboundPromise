@@ -10,5 +10,5 @@ A new STG-liek game Demo，Combined with close-range attack mechanics and gravit
 
 　为了增强操作感， 设计蓄力机制，让蓄力后攻击范围和伤害一起增加；冲刺靠冷却限制，按住时减速瞄准，松开后突进并清除沿途弹幕。慢速移动帮助玩家穿过细小空隙，史莱姆则提供回血、回魔、护盾或攻击援助。星屑要亲自拾取，升级也在战斗中完成，玩家需要自己找安全的时机。 　 　最后游戏中有不同的收藏品，需要玩家完成各样的挑战。
 <p align="center">
-  <img src="https://github.com/CronaEH/StarboundPromise/blob/main/pics/1.png" alt="Logo" width="300">
+  <img src="https://github.com/CronaEH/StarboundPromise/blob/main/pics/1.png"  width="600">
 </p>
