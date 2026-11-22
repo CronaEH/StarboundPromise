@@ -12,3 +12,15 @@ A new STG-liek game Demo，Combined with close-range attack mechanics and gravit
 <p align="center">
   <img src="https://github.com/CronaEH/StarboundPromise/blob/main/pics/1.png"  width="600">
 </p>
+<p align="center">
+  <img src="https://github.com/CronaEH/StarboundPromise/blob/main/pics/2.png"  width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/CronaEH/StarboundPromise/blob/main/pics/3.png"  width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/CronaEH/StarboundPromise/blob/main/pics/4.png"  width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/CronaEH/StarboundPromise/blob/main/pics/5.png"  width="600">
+</p>
